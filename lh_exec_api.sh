@@ -1,1 +1,0 @@
-docker compose -f docker-compose_apinew.yml up

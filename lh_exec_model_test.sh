@@ -1,1 +1,0 @@
-docker compose -f docker-compose.model_test.yml up
